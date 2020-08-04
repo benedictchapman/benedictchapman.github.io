@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $lato;
   color: $darkGray;
 }
@@ -71,7 +71,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -116,7 +116,6 @@ img {
 }
 
 .date {
-  font-style: italic;
   color: $gray;
 }
 
@@ -152,7 +151,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background: url(https://benedictchapman.github.io/images/type.jpg);
+  background: url(images/type.jpg);
 }
 
 .masthead {
@@ -164,7 +163,7 @@ img {
 }
 
 .site-info {
-
+  
   @include mobile {
     float: none;
     display: block;
@@ -180,6 +179,7 @@ img {
   font-weight: 300;
   font-size: 70px;
   letter-spacing: 1px;
+  line-height: 1;
 }
 
 .site-description {
@@ -236,6 +236,11 @@ nav {
 }
 
 .post {
+  .post-thumbnail {
+    float: left;
+    margin-right: 20px;
+    max-width: 80px;
+  }
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;

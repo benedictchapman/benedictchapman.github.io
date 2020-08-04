@@ -271,12 +271,12 @@ nav {
       left: 0;
       width: 100%;
       height: 100%;
-      background-color: $grey;
+      background-color: $gray;
       opacity: 0;
     }
     &:hover:after {
       opacity: .5;
-      border: 1px solid $darkGrey;
+      border: 1px solid $darkGray;
     }
   }
 }

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
     <article class="post">
       <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">
         <img class="post-thumbnail" src="{{ site.imagesurl }}{{ post.thumbnail }}">

@@ -13,27 +13,27 @@ So with the three remaining squares, I would have to form an abstracted curve, e
 
 Despite my comments above, a passable curve in not hard to form. I started with forming the curve with three largish squares and then the foot with a smaller square. It looked G-ish, if rather ugly.
 
-![black square 1]{black-square-1.jpg}
+![black square 1]({{ site.baseurl }}/images/black-square-1.jpg)
 
 Using smaller squares worked much better.
 
-![black square 1]{black-square-1.jpg}
+![black square 2]({{ site.baseurl }}/images/black-square-2.jpg)
 
 I tried a somewhat similar approach but using the orientation to indicate what role the square was playing and found a combination that really appealed to me.
 
-![black square 1]{black-square-1.jpg}
+![black square 3]({{ site.baseurl }}/images/black-square-3.jpg)
 
 Moving away from the idea of portioning three squares for the curve and one for the foot, I abstracted the curve using just two large squares:
 
-![black square 1]{black-square-1.jpg}
+![black square 4]({{ site.baseurl }}/images/black-square-4.jpg)
 
 Cropping can help emphasise the shape.
 
-![black square 1]{black-square-1.jpg}
+![black square 4 zoomed]({{ site.baseurl }}/images/black-square-4-zoomed.jpg)
 
-Finally I wanted to see what I could do about creating a more accurate form for the foot, which I could achieve by using negative space and relying on the boundaries of teh background
+Finally I wanted to see what I could do about creating a more accurate form for the foot, which I could achieve by using negative space and relying on the boundaries of the background
 
-![black square 1]{black-square-1.jpg}
+![black square 4]({{ site.baseurl }}/images/black-square-4.jpg)
 
 This was a fun excercise. The brief was to create just three, so these are my three favourte of my efforts:
 

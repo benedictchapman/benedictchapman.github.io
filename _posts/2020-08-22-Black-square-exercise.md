@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black square exercise
-thumbnail: neon-g.jpg
+thumbnail: black square 2.jpg
 date: 22 July 2020
 ---
 

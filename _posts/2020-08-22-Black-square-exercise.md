@@ -7,33 +7,36 @@ date: 22 July 2020
 
 Our first directive for creating our letter form is to do it with a combination of four black squares on a white background. As I had suspected, my letterform is a challenge. Firstly, it is mostly a curve, and squares are inherently non-curvy. Then, the G's foot thing adds more complexity, requiring its own black squares and being a very different kind of shape from the curve.
 
-My first thought was regarding the arrow-head shape of the foot that I had seen in the Helvetica G. (Actually, I had pictured this before checking to see what a G looks like in Helvetica. I am sure I have seen Gs with shapes like that, but at any rate, it doesn't take that much imagination.) The angle of the arrow head could easily be the apex of a square, so consequently a single square could be an abstraction of the foot of the G.
+My first thought was regarding the arrowhead shape of the foot that I had seen in the Helvetica G. The right-angle of the arrowhead could easily be the apex of a square, and consequently a single square could be an abstraction of the foot of the G.
 
 So with the three remaining squares, I would have to form an abstracted curve, ensuring that the curve worked with the square representing the foot.
 
-Despite my comments above, a passable curve in not hard to form. I started with forming the curve with three largish squares and then the foot with a smaller square. It looked G-ish, if rather ugly.
+Despite my comments above, a passable curve is not hard to form. In my first go forming the curve I used three largish squares and then the foot with a smaller square. It looked G-ish, if rather ugly.
 
 ![black square 1]({{ site.baseurl }}/images/black square 1.jpg)
 
-Using smaller squares worked much better.
+Using smaller squares looked much better, but was not clearly a G. I do think that it expresses the essentials of the letter shape though, even if it doesn't unambiguously express the letter.
 
 ![black square 2]({{ site.baseurl }}/images/black square 2.jpg)
 
-I tried a somewhat similar approach but using the orientation to indicate what role the square was playing and found a combination that really appealed to me.
+I tried a somewhat similar approach but this time I used the orientation of the squares to indicate what role they were playing in the shape. I found a combination that really appealed to me. I think it expresses so much with so little.
 
 ![black square 3]({{ site.baseurl }}/images/black square 3.jpg)
 
-Moving away from the idea of portioning three squares for the curve and one for the foot, I abstracted the curve using just two large squares:
+Moving away from the idea of portioning three squares for the curve and one for the foot, I abstracted the curve using just two large squares. Although there is a curve like contour to the center right side of the shape formed by the larger squares, my intention was for this to be far more abstract, really just representing the height of the letterform as a capital letter. (This got me thinking as to whether the whole alphabet of capital letters could be formed by two large squares in this shape and two small squares in various subsidiary positions.) Then two smaller squares formed the foot. While there were some things that intrigued me about this shape, particularly the sense of a precarious balance it has, I felt it moved just some way from representing the characteristics of a G. 
 
 ![black square 4]({{ site.baseurl }}/images/black square 4.jpg)
 
-Cropping can help emphasise the shape.
+To this point, I had not made use of the bounds of the workspace as part of the design. I applied this to my previous effort by cropping it. This did help push the shape towards a more recognisable G shape, but without nearly as much liveliness as the larger version.
 
 ![black square 4 zoomed]({{ site.baseurl }}/images/black square 4 zoomed.jpg)
 
-Finally I wanted to see what I could do about creating a more accurate form for the foot, which I could achieve by using negative space and relying on the boundaries of the background
+Sweeping all the black squares off my workspace, I started afresh.
+
+The characteristic part of the G is its foot. And in my mind, that foot – in its most classical form – takes the shape of a capital T. That T shape is not easy to built from black squares. However, it is very easily formed from the negative space between squares. This gave me a whole new direction for forming a G, as shown below. I think this one is a really interesting form and very boldly displays the essentials of the G letterform. And it is very interesting how different it is from the prevous forms.
 
 ![black square 5]({{ site.baseurl }}/images/black square 5.jpg)
 
-This was a fun excercise. The brief was to create just three, so these are my three favourte of my efforts:
+This excercise was very fun and really helped me drill down into the essentials characteristics of my letter. The brief for the exercies was to create just three shapes, so these are my three favourites of my efforts:
 
+![black square 2]({{ site.baseurl }}/images/black square 2.jpg) ![black square 3]({{ site.baseurl }}/images/black square 3.jpg) ![black square 5]({{ site.baseurl }}/images/black square 5.jpg)

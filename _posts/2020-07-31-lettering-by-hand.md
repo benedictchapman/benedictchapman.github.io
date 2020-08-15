@@ -23,3 +23,7 @@ Forming a positive form then. I applied a concept that connected with my last ne
 
 The last exercise in the workshop involved forming the letter out of geometric shapes, which I had in done in my last picture. In this one however, I ensured I only used the edge of my chalk, to get the full effect of the texture of the chalk.
 
+
+
+Then, as a palate cleanser, returning to the first exercise, drawing a G without looking, using the long edge of a piece of chalk. I didn't really want to repeat what I had did earlier, so I took my shortest piece of chalk. Quickly tossing off my normal hand written G:
+

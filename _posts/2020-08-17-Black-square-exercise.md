@@ -39,4 +39,4 @@ The distinguishing part of the G is its chin. And in my mind, that chin – in i
 
 This excercise was very fun and really helped me drill down into the essentials characteristics of my letter. The brief for the exercies was to create just three shapes, so these are my three favourite efforts:
 
-![black square 2]({{ site.baseurl }}/images/black square 2.jpg =167x) ![black square 3]({{ site.baseurl }}/images/black square 3.jpg =167x) ![black square 5]({{ site.baseurl }}/images/black square 5.jpg =167x)
+<img alt="black square 2" src="{{ site.baseurl }}/images/black square 2.jpg" class="small-img"> <img alt="black square 3" src="{{ site.baseurl }}/images/black square 3.jpg" class="small-img"> <img alt="black square 5" src="{{ site.baseurl }}/images/black square 5.jpg" class="small-img">

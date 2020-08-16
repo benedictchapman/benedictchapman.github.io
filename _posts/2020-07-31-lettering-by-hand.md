@@ -13,7 +13,7 @@ Next, drawing the blackletter version of my G with chalk. Firstly I tried to dra
 
 <img alt="hand 4" src="{{ site.baseurl }}/images/hand-4.jpg" class="small-img"> <img alt="hand 5" src="{{ site.baseurl }}/images/hand-5.jpg" class="small-img">
 
-Next, the idea is to draw the letter using negative space. The approach demonstrated by my classmates in the workshop was to form the letter by drawing and colouring around the lettershape, creating a background for the letter to sit on. My understanding of negative space is different however. I see negative space as the space formed between shapes, not simply an inverse. I attempted this in two different ways. Firstly I formed the G shape within a feathery texture. Then I more clearly implemented my interpreation of negative space, drawing shapes that surround a blank space that takes a G shape. I tried not to make the space too clearly G-shaped.
+Next, the idea is to draw the letter using negative space. The approach demonstrated by my classmates in the workshop was to form the letter by drawing and colouring around the lettershape, creating a background for the letter to sit on. My understanding of negative space is different however. I see negative space as the space formed between shapes, not simply an inverse. I attempted this in two different ways. Firstly I formed the G shape within a feathery texture. Then I more clearly implemented my interpreation of negative space, drawing shapes that surround a blank space that takes a G shape.
 
 <img alt="hand 6" src="{{ site.baseurl }}/images/hand-6.jpg" class="small-img"> <img alt="hand 7" src="{{ site.baseurl }}/images/hand-7.jpg" class="small-img">
 

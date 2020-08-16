@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lettering by Hand
+title: Lettering by hand
 thumbnail: hand-10-thumbnail.jpg
 date: 31 July 2020
 ---

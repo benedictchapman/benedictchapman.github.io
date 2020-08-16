@@ -13,11 +13,11 @@ Next, drawing the blackletter version of my G with chalk. Firstly I tried to dra
 
 <img alt="hand 4" src="{{ site.baseurl }}/images/hand-4.jpg" class="small-img"> <img alt="hand 5" src="{{ site.baseurl }}/images/hand-5.jpg" class="small-img">
 
-Next, the idea was to draw the letter using negative space. The approach demonstrated by my classmates in the workshop was to form the letter by drawing and colouring around the lettershape, creating a background for the letter to sit on. My understanding of negative space is different however. I see negative space as the space formed between shapes, not simply an inverse. I attempted this in two different ways. Firstly I formed the G shape within a feathery texture. Then I more clearly implemented my interpreation of negative space, drawing shapes that surround a blank space, thinking of slices or perhaps the view though the gaps in a vertical grid.
+Next, the idea was to draw the letter using negative space. The approach demonstrated by my classmates in the workshop was to form the letter by drawing and colouring around the lettershape, creating a background for the letter to sit on. My understanding of negative space is different however. I see negative space as the space formed between shapes, not simply an inverse. I attempted this in two different ways. Firstly I formed the G shape within a feathery texture. Then I more clearly implemented my interpreation of negative space, drawing shapes that surround a blank space that forms the shape of a G.
 
 <img alt="hand 6" src="{{ site.baseurl }}/images/hand-6.jpg" class="small-img"> <img alt="hand 7" src="{{ site.baseurl }}/images/hand-7.jpg" class="small-img">
 
-Drawing a positive form, then. I took a cue from my last negative space effort and formed the positive shape from a number of smaller shapes, which coming together made a clear G.
+Drawing a positive form, then. I took a cue from my last negative space effort and formed the positive shape from a number of smaller shapes, thinking of slices or perhaps the view though the gaps in a vertical grid.
 
 <img alt="hand 8" src="{{ site.baseurl }}/images/hand-8.jpg" class="small-img">
 

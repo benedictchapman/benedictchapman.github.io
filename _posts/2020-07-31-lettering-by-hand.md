@@ -25,8 +25,8 @@ The last proper exercise in the workshop involved forming the letter out of geom
 
 <img alt="hand 9" src="{{ site.baseurl }}/images/hand-9.jpg" class="small-img">
 
-Then, as a palate cleanser, we returned to the first exercise, drawing a G without looking, using the long edge of a piece of chalk. I didn't really want to repeat what I  did earlier, so I took my shortest piece of chalk. Quickly crawling my normal handwritten G I got:
+Then, as a palate cleanser, we returned to the first exercise, drawing a G without looking, using the long edge of a piece of chalk. I didn't really want to repeat what I  did earlier, so I took my shortest piece of chalk. Quickly scrawling my normal handwritten G I got:
 
 <img alt="hand 10" src="{{ site.baseurl }}/images/hand-10.jpg" class="small-img">
 
-I was quite surprised to see how different my handwritten G looked from the Gs I had drawn. In drawing G in all the exercises up to this point, I had been more influenced by Gs in formal typefaces and had not considered what my own written G looked like.
+I was quite surprised to see how different my handwritten G looked from the Gs I had drawn (apart from the one directly above). In drawing G in all the exercises up to this point, I had been more influenced by Gs in formal typefaces and had not considered what my own written G looked like.

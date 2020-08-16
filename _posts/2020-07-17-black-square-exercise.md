@@ -37,6 +37,6 @@ The distinguishing part of the G is its chin. And in my mind, that chin – in i
 
 ![black square 5]({{ site.baseurl }}/images/black square 5.jpg)
 
-This excercise was very fun and really helped me drill down into the essentials characteristics of my letter. The brief for the exercies was to create just three shapes, so these are my three favourite efforts:
+This excercise was very fun and really helped me drill down into the essential characteristics of my letter. The brief for the exercies was to create just three shapes, so these are my three favourite efforts:
 
 <img alt="black square 2" src="{{ site.baseurl }}/images/black square 2.jpg" class="small-img"> <img alt="black square 3" src="{{ site.baseurl }}/images/black square 3.jpg" class="small-img"> <img alt="black square 5" src="{{ site.baseurl }}/images/black square 5.jpg" class="small-img">

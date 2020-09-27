@@ -9,9 +9,9 @@ date: 18 September 2020
 
 We have a Lush store in town, so I popped in there while out shopping on the weekend:
 
-* ![Lush sign]({{ site.baseurl }}/images/lush-sign.jpg)
-* ![Lush instore signage]({{ site.baseurl }}/images/lush-instore.jpg)
-* ![Lush products]({{ site.baseurl }}/images/lush-products.jpg)
+* ![Lush sign]({{ site.baseurl }}/images/lush-sign.jpeg)
+* ![Lush instore signage]({{ site.baseurl }}/images/lush-instore.jpeg)
+* ![Lush products]({{ site.baseurl }}/images/lush-products.jpeg)
 
 I was encouraged to see that the roundness I saw all over the website also appeared in the store. The other thing that stood out was the use of white chalk marker on black. Also, just a lot of white on black in the store.
 

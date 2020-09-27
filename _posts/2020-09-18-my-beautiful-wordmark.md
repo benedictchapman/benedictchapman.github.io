@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My beautiful workmark
-thumbnail: LU.png
+thumbnail: final-sketch.jpg
 date: 18 September 2020
 ---
 

@@ -5,6 +5,26 @@ thumbnail: LU.png
 date: 25 September 2020
 ---
 
+The vast bulk of the work in creating the form of my final logo was done last week. This week involved some minor modifications, creating a compound object from the paths and then working with the stroke and other functions to form the final logos. It wasn't much, but it took as much, if not more work than the previous week.
+
+## Tweaks
+
+There were a couple of things that I was slightly disappointed with in the form I had generated at the end of the last week.
+
+Firstly, the narrowest parts of the logo were too narrow. When the outline was filled in, these narrows parts would represent where the pen that might have drawn the letters was drawing just a fine line. There were two problems with this. Firstly, I didn't want to make it too much like it been drawn with a pen. I didn't want to make it look like it *wasn't*, but I didn't want that aspect of the line shape to be overt. Also, the logo might be reproduced at a small size, for which the thin lines might not be easily visible.
+
+My second concern was that the flourish at the top of the L might be making it look subliminially like a P. While I did love the fine line of the flourish, I felt it had to be modified slightly to emphasise that it is a flouish.
+
+This required further nudging of the anchor points and handles.
+
+## Illustratoring
+
+To get a file I could work with, I applied some Illustrator functions to the paths. To get rid of the crossing paths in the L and s, I appled the Minus Back pathfinder. Then, selected all of the paths from all of the letters and created a combined compound path.
+
+Filling this in black created the first version of the wordmark:
+
+* ![Lush plain]({{ site.baseurl }}/images/lush-plain.png)
+
 ## Further research
 
 We have a Lush store in town, so I popped in there while out shopping on the weekend:

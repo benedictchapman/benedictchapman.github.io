@@ -25,13 +25,18 @@ So, before sketching, I was imagining very swoopy lettering. Clearly handwritten
 
 So, pencil in hand, I threw together some sketches. Firstly trying to get what was in head down on paper, then experimenting with different approaches and fiddling around with things. Below I am linking to scans of my sketches.
 
-* ![Lush sign]({{ site.baseurl }}/images/lush-sign.jpg)
+* [Sketches page 1]({{ site.baseurl }}/images/scan-1.jpg)
+* [Sketches page 2]({{ site.baseurl }}/images/scan-2.jpg)
+* [Sketches page 3]({{ site.baseurl }}/images/scan-3.jpg)
+* [Sketches page 4]({{ site.baseurl }}/images/scan-4.jpg)
+* [Sketches page 5]({{ site.baseurl }}/images/scan-5.jpg)
+* [Sketches page 6]({{ site.baseurl }}/images/scan-6.jpg)
 
 You can see from the progression from my first page to the last, I got close to nailing what I wanted on the first page. After a few tries at alternatives, I pretty much went back to my second sketch and had a go inking it.
 
 Here are my second sketch, where I think I nailed the overall form (I say it was my second, but I did in fact erase and redraw it many time to get just the right shape) and it redrawn with modulation in the thickness and inked.
 
-![Lush sign]({{ site.baseurl }}/images/lush-sign.jpg) ![Lush sign]({{ site.baseurl }}/images/lush-sign.jpg)
+![Initial sketch]({{ site.baseurl }}/images/initial-sketch.jpg) ![Final sketch]({{ site.baseurl }}/images/final-sketch.jpg)
 
 This nails the feelings I wanted in the logo. It feels natural. It is casual – jaunty even. Confident without being bold.
 

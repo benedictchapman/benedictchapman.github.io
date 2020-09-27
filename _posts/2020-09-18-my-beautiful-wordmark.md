@@ -5,47 +5,42 @@ thumbnail: LU.png
 date: 18 September 2020
 ---
 
-In a bit of a surprise, getting the design brief I am going to work on is not as straight forward as I thought it was going to be. It turns out that we are not being pared up with another class mate and simply being assigned their design project, we have been put into groups of three and have to work out ourselves which design we would work on.
+## Further research
 
-It was all very easy to sort out however. We connected during class and then communicated by WhatsApp, exchanging briefs, and had a quick Zoom meeting. In my group were Kate and Yisha, and their projects were, respectively, a redesign of Lush’s logo and Planty, a hypothetical app for identifying and caring for plants. I had no particular preference for either. It was Kate’s love of plants that got us organised however. With Kate taking Yisha’s, Yisha took mine and I took Kate’s Lush brief.
+We have a Lush store in town, so I popped in there while out shopping on the weekend:
 
-## Brief for redesign of Lush’s logo
+* ![Lush sign]({{ site.baseurl }}/images/lush-sign.jpg)
+* ![Lush instore signage]({{ site.baseurl }}/images/lush-instore.jpg)
+* ![Lush products]({{ site.baseurl }}/images/lush-products.jpg)
 
-The brief I received from Kate is for a redesign of Lush’s logo. Here is my summary of what is contained in the brief.
+I was encouraged to see that the roundness I saw all over the website also appeared in the store. The other thing that stood out was the use of white chalk marker on black. Also, just a lot of white on black in the store.
 
-* Lush is a cosmetics company. Their products are handmade (whatever that means in this context), ethical, environmentally friendly and use fresh ingredients (again, probably open to interpretation).
-* Lush has few competitors in the eco-friendly, ethical cosmetics field, though this is likely to change. Their current competitors include The Body Shop and Kiehl’s, most notably. However, the number of smaller producers using direct ecommerce platforms is growing.
-* Lush’s point of difference is its six values: using fresh ingredients, being 100% vegetarian, ethical buying, handmade products, naked packaging and fighting animal testing.
-* Lush’s primary audience is 20–30-year-old women with disposible income, though Lush deliberately do not target women or men specifically in their marketing.
-* Lush do not use traditional advertising, as a policy.
-* Lush want their logo redesigned with a softer look. Currently, Lush’s branding style is bold, both in colour and in font choice. The new design should be more approachable and less loud, and it should work with a softer palette. It needs to capture Lush’s values. In addition, it should be welcoming and present a “casual, helpful earthy and approachable tone”.
-* The logo will be used on store signage, on product packaging and online. It needs to be print and web friendly.
-* The current logo and wordmark are indeed bold. In both, “Lush” is displayed in all-caps Helvetica, in a weight beyond ‘bold’. In the samples provided ”Fresh handmade cosmetics” is included in both the logo and wordmark, in all-caps and in a font that resembles handwritten marker and bold Helvetica, respectively. (Samples included below.)
-* The new logo should not follow the stereotype for organic-themed brands of using green or featuring plant life, while still demonstrating that they are ethical.
-* The logo should contribute to helping users feel guilt-free in pampering themselves with Lush’s products. They should have confidence that Lush’s product are both friendly to the environment and their own bodies.
-* Kate provides a series of references demonstrating Lush’s current branding and business practices, as well as some articles discussing the business of ethical cosmetics.
+This visit firmed up my instinct of doing a hand written wordmark.
 
-![Lush logo and wordmark]({{ site.baseurl }}/images/lushes.png)
+## Sketches
 
-## Research and analysis
+By this time I already had a picture of what I though I wanted in my head. And I needed to see what it looked like on paper.
 
-First off, Lush’s logo is definitely bold. At a glance, there is nothing in the logo that expresses their core values. And there is nothing in the logo that suggests what their products are. I am at a loss as to its appeal. Kate is absolutely right in thinking that this logo needs to be redesigned.
+So, before sketching, I was imagining very swoopy lettering. Clearly handwritten but not calligraphic. The idea here is to get something that looks natural and unpretentious. I wanted quite a lot of modulation in the lines (i.e. thicks and thins). This could be something that could, in theory at least, be drawn with a wedge-tip chalk marker. I was also very keen on it fitting within a stroke. In my head, that would give the words that much more *lusciousness*.
 
-Secondly, looking through Lush’s website and other references online, I think what Kate has identified as Lush’s logo is actually an old logo, and that what Kate refers to as the wordmark is the current logo for the company. This simplifies things somewhat. My objective then is to design a replacement for the current Lush wordmark/logo, to produce a new wordmark/logo that satisfies the requirements of Kate’s brief.
+So, pencil in hand, I threw together some sketches. Firstly trying to get what was in head down on paper, then experimenting with different approaches and fiddling around with things. Below I am linking to scans of my sketches.
 
-My first bit of research was, of course, to examine Lush’s website. Then I referred to websites of Lush’s competitors. I was sceptical of Kate’s claim that Lush does not have many direct competitors, though looking around the web, I think she’s right with respect to the global market. Her point that small home-based producers proliferate via direct ecommerce is also almost certainly spot on. However, my research shows that there appears to be a large number of producers between these poles. These are smaller producers, who may or may not even have a global presence, but who don’t rely on direct ecommerce. They are sold in homeware stores and supermarkets and in dedicated ‘ethical’ stores (here I am thinking of Good House Keeping at the top of Cuba St, but there are many examples). Some even have their own stores, such as Wellington Apothecary. So Lush doesn't have to distinguish itself just from its direct competitors, The Body Shop and Kiehl’s, but also the numerous smaller brands, either because some of them may one day grow to challenge Lush in size or because of the competition they present as a collective.
+* ![Lush sign]({{ site.baseurl }}/images/lush-sign.jpg)
 
-Here are some links to other cosmetic firms in Lush's ecosystem:
+You can see from the progression from my first page to the last, I got close to nailing what I wanted on the first page. After a few tries at alternatives, I pretty much went back to my second sketch and had a go inking it.
 
-* [The Body Shop](https://nz.lush.com)
-* [Kiehl’s](https://www.kiehls.com)
-* [Ethique](https://ethiqueworld.com)
-* [Wellington Apothecary](https://www.wellingtonapothecary.co.nz)
-* [Bottega Organica](https://www.bottegaorganica.com)
-* [Wabi-Sabi](https://wabisabibotanicals.com)
+Here are my second sketch, where I think I nailed the overall form (I say it was my second, but I did in fact erase and redraw it many time to get just the right shape) and it redrawn with modulation in the thickness and inked.
 
-One thing that struck me about the styles of many of these brands is how typographic their wordmarks are. This is apparent in some of the examples I listed above, but is stronger in the smaller companies without good web presences. I feel that this is perhaps influenced by two things. Firstly, traditional cosmetic companies – I’m thinking L’Oreal here – use quite stark wordmarks, which may be an enduring influence on the whole field. Secondly, many of the small producers tend towards a very tidy, hand-crafted aesthetic, typified most clearly by the use of undyed cardboard in their packaging, and I think a fairly un-fussy wordmark suits that aesthetic nicely. A stand-out exception to this is Ethique, which has a wordmark that looks hand-drawn.
+![Lush sign]({{ site.baseurl }}/images/lush-sign.jpg) ![Lush sign]({{ site.baseurl }}/images/lush-sign.jpg)
 
-## Initial design thoughts
+This nails the feelings I wanted in the logo. It feels natural. It is casual – jaunty even. Confident without being bold.
 
-An approach that I am considering is to use a hand-drawn wordmark, making an effort to make it distinct from other examples in the field, Ethique specifically. This will go a long way towards making the logo softer and more approachable. I am also quite inspired by the photos of products from the Lush website. There is a lot of *roundness* on the page – the bath bombs (my first association when I think of Lush) and the blobs of shower gell or body lotion – that I would like to incorporate into my design.
+And something I love about it is that it expresses the letters elegantly. It think each letter is a beautiful work in itself. The L is of course dominant. But it doesn't overwhelm the other letters. My favourite shape is the s however. But mostly I love the way the letters work together. The L cups the u and the s and reaches out for the h. The u slips in to the crux of the L. The s has the space within the swoop of the foot of the L to reach out and perform its own beautiful swoop. The h slots in with the s and reaches out to the right, while also leaning back towards the other letters and forming the envelope that the whole things sits in.
+
+(Could it maybe be mistaken for “Push” though? Something to be wary of.)
+
+The next step is to digitise the pencil and ink sketch. I dig out my son's drawing tablet, opened Illustrator and traced the sketch using the Illustrator pencil tool. I wish I had saved a copy of my work at this point. I had what I needed to work with on the computer, my words made up of Illustrator paths, but it was so far away from the beautiful swoopy sketch I was trying to trace. I looked like I had drawn it with my left hand. With my eyes closed.
+
+You know what comes next. Closing the paths, deleting excess anchor point and hours of meticulous adjusting of handles. Finally, I had three paths making up my letters.
+
+![Lush paths]({{ site.baseurl }}/images/lush-lines.png)

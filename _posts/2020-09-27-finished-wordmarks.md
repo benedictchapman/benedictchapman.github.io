@@ -5,13 +5,13 @@ thumbnail: lush-circle.png
 date: 27 September 2020
 ---
 
-The vast bulk of the work in creating the form of my final logo was done last week. This week involved some minor modifications, creating a compound object from the paths and then working with the stroke and other functions to form the final logos. It looks like it is just finishing work, but it took as much, if not more effort than the previous week.
+The vast bulk of the work in creating the form of my final logo was done last week. This week involved some minor modifications, creating a compound object from the paths and then working with the stroke and other functions to form the final logos. This list of tasks might tive the impression that it is just finishing work, but it took as much, if not more effort than the previous week.
 
 ## Tweaks
 
 There were a couple of things that I was slightly disappointed with in the form I had generated at the end of the last week.
 
-Firstly, the narrowest parts of the logo were too narrow. When the outline was filled in, these narrows parts would represent where the pen that might have drawn the letters was drawing just a fine line. There were two problems with this. Firstly, I didn't want to make it look like it been drawn with a pen. I didn't want to make it look like it *wasn't*, but I didn't want that aspect of the line shape to be overt. Also, the logo might be reproduced at a small size, for which the thin lines might not be easily visible.
+Firstly, the narrowest parts of the logo were too narrow. When the outline was filled in, these narrows parts would represent where the pen that might have drawn the letters was drawing just a fine line. There were two problems with this. Firstly, I didn’t want to make it look like it been drawn with a pen. I didn’t want to make it look like it *wasn’t*, but I didn’t want that aspect of the line shape to be overt. Also, the logo might be reproduced at a small size, for which the thin lines might not be easily visible.
 
 My second concern was that the flourish at the top of the L might be making it look subliminially like a P. While I did love the fine line of the flourish, I felt it had to be modified slightly to emphasise that it is a flouish.
 
@@ -43,11 +43,11 @@ I next experimented with an alternative stroke, one that gave the letters a 3D a
 
 ![Lush stroke perspective]({{ site.baseurl }}/images/lush-stroke-perspective.png)
 
-However, this gave the wordmark a grooviness that I didn't think was appropriate for the brand. Although the curvy hand-written style I am using owes a lot to 70s’ styling, I tried to avoid making it look like it was from that era. So, I like this, but I am not using it.
+However, this gave the wordmark a grooviness that I didn’t think was appropriate for the brand. Although the curvy hand-written style I am using owes a lot to 70s’ styling, I tried to avoid making it look like it was from that era. So, I like this, but I am not using it.
 
 ## Lush circle
 
-The last form of the logo was to put it in a circle. As I had always intended, the logo was supposed to mirror some of the shapes I had seen in the Lush store and website. The logo didn't turn out to be terribly circular itself, but while I was creating it I had imagined it appearing in a circle. So this form is an important one to at least look at.
+The last form of the logo was to put it in a circle. As I had always intended, the logo was supposed to mirror some of the shapes I had seen in the Lush store and website. The logo didn’t turn out to be terribly circular itself, but while I was creating it I had imagined it appearing in a circle. So this form is an important one to at least look at.
 
 I suppose you could say that the plain version of the logo could just have a circle drawn around it. But I think it is important to actually apply that in a file. So I put a white logo within a black circle. Then I adjusted the position so that it looked centred, which actually meant the centre of the word was not at the centre of the circle.
 
@@ -65,4 +65,4 @@ The instructions for the project are to provide three wordmarks. There were no s
 * The stroke version is intended to be used in most circumstances. It scales up and down sufficiently well that it can be used on awnings above stores and also on price stickers.
 * The circular logo is for some specific cases where the stroke version will not work but the plain version is also lacking.
 
-I can't help but be concerned that my three choices here are quite similar. I do hope though that my description of the process by which I came up with them and the considerations that went into individually crafting them do enough to explain why they should be considered important variations.
+I can’t help but be concerned that my three choices here are quite similar. I do hope though that my description of the process by which I came up with them and the considerations that went into individually crafting them, detailed in this blog, do enough to explain why they should be considered important variations.

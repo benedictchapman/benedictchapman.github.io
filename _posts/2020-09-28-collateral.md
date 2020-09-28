@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collateral
-thumbnail: wrapping-paper.png
+thumbnail: wrapping-paper-thumb.png
 date: 28 September 2020
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Finished wordmarks
 thumbnail: lush-circle.png
-date: 25 September 2020
+date: 27 September 2020
 ---
 
 The vast bulk of the work in creating the form of my final logo was done last week. This week involved some minor modifications, creating a compound object from the paths and then working with the stroke and other functions to form the final logos. It looks like it is just finishing work, but it took as much, if not more effort than the previous week.

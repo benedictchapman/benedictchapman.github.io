@@ -5,13 +5,13 @@ thumbnail: lush-circle.png
 date: 25 September 2020
 ---
 
-The vast bulk of the work in creating the form of my final logo was done last week. This week involved some minor modifications, creating a compound object from the paths and then working with the stroke and other functions to form the final logos. It wasn't much, but it took as much, if not more work than the previous week.
+The vast bulk of the work in creating the form of my final logo was done last week. This week involved some minor modifications, creating a compound object from the paths and then working with the stroke and other functions to form the final logos. It looks like it is just finishing work, but it took as much, if not more effort than the previous week.
 
 ## Tweaks
 
 There were a couple of things that I was slightly disappointed with in the form I had generated at the end of the last week.
 
-Firstly, the narrowest parts of the logo were too narrow. When the outline was filled in, these narrows parts would represent where the pen that might have drawn the letters was drawing just a fine line. There were two problems with this. Firstly, I didn't want to make it too much like it been drawn with a pen. I didn't want to make it look like it *wasn't*, but I didn't want that aspect of the line shape to be overt. Also, the logo might be reproduced at a small size, for which the thin lines might not be easily visible.
+Firstly, the narrowest parts of the logo were too narrow. When the outline was filled in, these narrows parts would represent where the pen that might have drawn the letters was drawing just a fine line. There were two problems with this. Firstly, I didn't want to make it look like it been drawn with a pen. I didn't want to make it look like it *wasn't*, but I didn't want that aspect of the line shape to be overt. Also, the logo might be reproduced at a small size, for which the thin lines might not be easily visible.
 
 My second concern was that the flourish at the top of the L might be making it look subliminially like a P. While I did love the fine line of the flourish, I felt it had to be modified slightly to emphasise that it is a flouish.
 
@@ -27,7 +27,7 @@ Filling this in black created the first version of the wordmark:
 
 ## Stroke
 
-Next I put a stroke around the letters. That is a simple process of increasing the ‘stroke’ for the path’s appearance. I applied the stroke to the outside of the path, with a round-join corner. Applying judgement to an appropriate size for the stroke, I made the width of the stroke about the width of the thicker parts of the u and h, just maybe a touch wider. I then used Outline Stroke to turn the stroke itself into the compount path. Then I could remove the hollows within the envelope (such as within the curve of the h).
+Next I put a stroke around the letters. That is a simple process of increasing the ‘stroke’ for the path’s appearance. I applied the stroke to the outside of the path, with a round-join corner. Applying judgement to an appropriate size for the stroke, I made the width of the stroke about the width of the thicker parts of the u and h, just maybe a touch wider. I then used Outline Stroke to turn the stroke itself into the compound path. Then I could remove the hollows within the envelope (such as within the curve of the h).
 
 I consider this to be the canonical version of the logo. The stroke adds opulance to the letters’ curves. I also love the white on black. Even without colour, the letters are vibrant within the stroke.
 
@@ -39,7 +39,7 @@ This form is also very welcoming of colour too, either in the letters or in the 
 
 ## Funky Lush
 
-I next experimented with an alternative stroke, one that gave the letters a 3D aspect. In this case I blending together the wordform and a spatially shifted copy of the wordform, then applied a stroke around that. It actually worked really nicely.
+I next experimented with an alternative stroke, one that gave the letters a 3D aspect. In this case I blended together the wordform and a spatially shifted copy of the wordform, then applied a stroke around that. It actually worked really nicely.
 
 ![Lush stroke perspective]({{ site.baseurl }}/images/lush-stroke-perspective.png)
 
@@ -65,4 +65,4 @@ The instructions for the project are to provide three wordmarks. There were no s
 * The stroke version is intended to be used in most circumstances. It scales up and down sufficiently well that it can be used on awnings above stores and also on price stickers.
 * The circular logo is for some specific cases where the stroke version will not work but the plain version is also lacking.
 
-I can't help but be concerned that my three choices here are quite similar. I do hope though that my description of the process by which I came up with them and the considerations that went into individually crafting them do enough to explain why they should be considere individually worthy.
+I can't help but be concerned that my three choices here are quite similar. I do hope though that my description of the process by which I came up with them and the considerations that went into individually crafting them do enough to explain why they should be considered important variations.

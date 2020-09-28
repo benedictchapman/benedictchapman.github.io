@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finished wordmarks
-thumbnail: lush-cricle.png
+thumbnail: lush-circle.png
 date: 25 September 2020
 ---
 

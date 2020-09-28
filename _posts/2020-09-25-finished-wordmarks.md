@@ -23,7 +23,7 @@ To get a file I could work with, I applied some Illustrator functions to the pat
 
 Filling this in black created the first version of the wordmark:
 
-* ![Lush plain]({{ site.baseurl }}/images/lush-plain.png)
+![Lush plain]({{ site.baseurl }}/images/lush-plain.png)
 
 ## Stroke
 
@@ -31,11 +31,23 @@ Next I put a stroke around the letters. That is a simple process of increasing t
 
 I consider this to be the canonical version of the logo. The stroke adds opulance to the letters’ curves. I also love the white on black. Even without colour, the letters are vibrant within the stroke.
 
-* ![Lush stroke]({{ site.baseurl }}/images/lush-stroke.png)
+![Lush stroke]({{ site.baseurl }}/images/lush-stroke.png)
 
 This form is also very welcoming of colour too, either in the letters or in the stroke. And this is an important point, as part of the stipulations of the brief is that Lush wants to use a softer palette. I tried out a range of colours and I think it works great. Even with a gradent.
 
-* ![Lush stroke colour]({{ site.baseurl }}/images/lush-stroke-colour.png)
+![Lush stroke colour]({{ site.baseurl }}/images/lush-stroke-colour.png)
+
+## Funky Lush
+
+I next experimented with an alternative stroke, one that gave the letters a 3D aspect. In this case I blending together the wordform and a spatially shifted copy of the wordform, then applied a stroke around that. It actually worked really nicely.
+
+![Lush stroke perspective]({{ site.baseurl }}/images/lush-stroke-perspective.png)
+
+However, this gave the wordmark a grooviness that I didn't think was appropriate for the brand. Although the curvy hand-written style I am using owes a lot to 70s’ styling, I tried to avoid making it look like it was from that era. So, I like this, but I am not using it.
+
+## Lush circle
+
+The last form of the logo was to put it in a circle. As I had always intended, the logo was 
 
 ## Further research
 

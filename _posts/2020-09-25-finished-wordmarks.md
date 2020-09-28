@@ -25,6 +25,18 @@ Filling this in black created the first version of the wordmark:
 
 * ![Lush plain]({{ site.baseurl }}/images/lush-plain.png)
 
+## Stroke
+
+Next I put a stroke around the letters. That is a simple process of increasing the ‘stroke’ for the path’s appearance. I applied the stroke to the outside of the path, with a round-join corner. Applying judgement to an appropriate size for the stroke, I made the width of the stroke about the width of the thicker parts of the u and h, just maybe a touch wider. I then used Outline Stroke to turn the stroke itself into the compount path. Then I could remove the hollows within the envelope (such as within the curve of the h).
+
+I consider this to be the canonical version of the logo. The stroke adds opulance to the letters’ curves. I also love the white on black. Even without colour, the letters are vibrant within the stroke.
+
+* ![Lush stroke]({{ site.baseurl }}/images/lush-stroke.png)
+
+This form is also very welcoming of colour too, either in the letters or in the stroke. And this is an important point, as part of the stipulations of the brief is that Lush wants to use a softer palette. I tried out a range of colours and I think it works great. Even with a gradent.
+
+* ![Lush stroke colour]({{ site.baseurl }}/images/lush-stroke-colour.png)
+
 ## Further research
 
 We have a Lush store in town, so I popped in there while out shopping on the weekend:
